@@ -5,10 +5,10 @@ public class Sample02 {
         String firstName="太郎";
         String lastName="凛空";
 
-        if (firstName.length() >= 2 && lastName.length() >= 2) {
-            System.out.println(lastName + "　" + firstName);
-        } else {
-            System.out.println("条件に一致しませんでした。");
-        }
+//        if (firstName.length() >= 2 & lastName.length() >= 2) {
+//            System.out.println(lastName + "　" + firstName);
+//        } else {
+//            System.out.println("条件に一致しませんでした。");
+//        }
     }
 }
